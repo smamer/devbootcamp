@@ -1,3 +1,5 @@
+CREATE DATABASE [Taverns];
+
 DROP TABLE IF EXISTS [Tavern];
 CREATE TABLE [Tavern](
     TavernID INT IDENTITY(1, 1),
